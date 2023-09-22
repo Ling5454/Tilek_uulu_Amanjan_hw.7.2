@@ -13,7 +13,7 @@ public class Main {
         if (heroesAttackType[i] instanceof Medic){
             Medic medic1 = (Medic)heroesAttackType[i];
             medic1.increaseExperience();
-            
+
         }
         }
     }
